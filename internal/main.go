@@ -107,4 +107,5 @@ func main() {
 		os.Exit(1)
 	}
 	logger.Info("Ignition finished successfully")
+	logger.Info("welcome to bh7cw info world")
 }
